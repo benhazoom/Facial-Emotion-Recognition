@@ -10,3 +10,4 @@ The model was train on Fer+ and Kdef data sets and has a success rate of 78% bas
 1.In April the AffectNet data set will be up for usage again and higher success rate can be and will be achieved
 2.Manipulating the dataset images for better filters and higher success rate
 3.Frontend - Using the model to predict face emotions in real time and playing music accordingly
+4.Better analytics of each emotion accuracy and modifing datasets accordingly
