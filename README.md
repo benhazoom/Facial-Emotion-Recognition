@@ -8,7 +8,9 @@ The model was train on Fer+ and Kdef data sets and has a success rate of 78% bas
 
 ## 📋 Project Structure:
 EmotionDetectionProject-78%.ipynb - The creation of the model, its training, testing and saving
+
 loding78_model.ipynb - loading the model from file and testing
+
 model-78%.json - The saved model for loading in loding78_model.ipynb
 
 ## :crystal_ball: Future Tasks
