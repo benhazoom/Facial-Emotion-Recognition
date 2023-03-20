@@ -1,4 +1,4 @@
-# :face: Facial-Emotion-Recognition - Neural Network project
+# 🧐 Facial-Emotion-Recognition - Neural Network project
 ![image](https://user-images.githubusercontent.com/87472603/226422722-ebb42092-9089-4f67-b6b8-560b01e63338.png)
 
 ## 🔎 Overview
