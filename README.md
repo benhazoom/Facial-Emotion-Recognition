@@ -7,6 +7,10 @@ The model was train on Fer+ and Kdef data sets and has a success rate of 78% bas
 (as you can see the model predicts 6/8)
 
 ## 📋 Project Structure:
+balancing+best_model.ipynb - Creates a balance dataset from combined datasets and creates a unique model that corresponds the best with the new dataset
+
+CreatingDataSets - Combines multiple datasets for later balancing, making and training of the model
+
 EmotionDetectionProject-78%.ipynb - The creation of the model, its training, testing and saving
 
 loding78_model.ipynb - loading the model from file and testing
